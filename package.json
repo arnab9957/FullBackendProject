@@ -1,0 +1,20 @@
+{
+  "name": "fullbackendproject",
+  "version": "1.0.0",
+  "description": "a FullBackend Project",
+  "homepage": "https://github.com/arnab9957/FullBackendProject#readme",
+  "bugs": {
+    "url": "https://github.com/arnab9957/FullBackendProject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnab9957/FullBackendProject.git"
+  },
+  "license": "ISC",
+  "author": "Arnab Kumar Dey",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
